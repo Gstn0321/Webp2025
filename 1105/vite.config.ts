@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/Webp2025/",
+  base: "/Webp2025/1105/index.html",
   appType: "spa",
   server: {
     host: "::",
